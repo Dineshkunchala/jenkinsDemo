@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='Blue'> Welcome to vtalent Hyderabad !!!<font></h1>
+<h1><font color='Blue'> Welcome to Vtalent institute Hyderabad !!!<font></h1>
 
 
 
